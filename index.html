@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,9 +10,18 @@
     <div class="js-clock">
       <h1>00:00</h1>
     </div>
-    <form class="js-form"><input type="text" placeholder="What you are name.." /></form>
+    <form class="js-form">
+      <input type="text" placeholder="What you are name.." />
+    </form>
     <h4 class="js-greeting greetting"></h4>
+
+    <form class="js-toDoForm">
+      <input type="text" placeholder="Write a to do " />
+    </form>
+    <ul class="js-toDoList"></ul>
+
     <script src="clock.js"></script>
     <script src="greeting.js"></script>
+    <script src="toDo.js"></script>
   </body>
 </html>
