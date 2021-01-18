@@ -6,4 +6,4 @@ html, css, javascript
 - [x] Saving the User Name
 - [x] Making a To Do List
 - [x] Image Background
-- [ ] Getting the Weather
+- [x] Getting the Weather
