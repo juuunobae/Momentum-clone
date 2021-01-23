@@ -7,3 +7,4 @@ html, css, javascript
 - [x] Making a To Do List
 - [x] Image Background
 - [x] Getting the Weather
+- [ ] Finished CSS
